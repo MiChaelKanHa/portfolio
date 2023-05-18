@@ -12,8 +12,8 @@
       "state":"CA",
       "zip": "94501"
     },
-    "website": "",
-    "resumedownload":"",
+    "website": "https://michaelkanha.github.io/portfolio/",
+    "resumedownload":"https://michaelkanha.github.io/portfolio/",
     "social":[
       {
         "name":"facebook",
@@ -76,13 +76,13 @@
       {
         "title":"Birthday Database",
         "category":"I created an application for keeping track of your friends' birthdays.",
-        "image":"BirthdayDatabase.png",
+        "image":"BirthdayDatabase.jpg",
         "url":"https://github.com/MiChaelKanHa/BirthdayDatabase"
       },
       {
         "title":"Spellchecker",
         "category":"I wrote a spellchecker program.",
-        "image":"Spellchecker.png",
+        "image":"Spellchecker.jpg",
         "url":"https://github.com/MiChaelKanHa/Spellchecker"
       },
       {
@@ -94,7 +94,7 @@
       {
         "title":"Sudoku Game",
         "category":"This is my first game called Sudoku in Python.",
-        "image":"Sudoku-Game.png",
+        "image":"Sudoku-Game.jpg",
         "url":"https://github.com/MiChaelKanHa/SUDOKU-GAME"
       }
     ]
