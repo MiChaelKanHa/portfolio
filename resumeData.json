@@ -1,0 +1,110 @@
+{
+  "main": {
+    "name":"Thanh Cong Nguyen",
+    "occupation":"Software Engineer",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"I am currently studying Computer Science at the University of San Francisco. I enjoy music, soccer, basketball, and coding.",
+    "contactmessage":"",
+    "email": "khoannguyen1116@gmail.com",
+    "address":{
+      "city":"Alameda",
+      "state":"CA",
+      "zip": "94501"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100014290206828",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Michael456689",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/thanh-cong-nguyen-248949225/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/MiChaelKanHa",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of San Francisco",
+        "degree":"BA Computer Science",
+        "graduated":"August 2022 - May 2026",
+        "description":"Relevant courses: Introduction to Python | Introduction to Java"
+      }
+    ],
+    "work":[
+      {
+        "description":"Although I don't have formal work experience in the field, I have developed a strong foundation in Computer Science through my academic coursework. Additionally, I have actively pursued personal projects, which have allowed me to apply my skills and enhance my problem-solving abilities. I am eager to bring my passion, dedication, and willingness to learn to a professional environment and contribute to the team's success."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Birthday Database",
+        "category":"I created an application for keeping track of your friends' birthdays.",
+        "image":"BirthdayDatabase.png",
+        "url":"https://github.com/MiChaelKanHa/BirthdayDatabase"
+      },
+      {
+        "title":"Spellchecker",
+        "category":"I wrote a spellchecker program.",
+        "image":"Spellchecker.png",
+        "url":"https://github.com/MiChaelKanHa/Spellchecker"
+      },
+      {
+        "title":"Cho Han & Spaceship",
+        "category":"I built a game program which includes two games named Cho-Han and Spaceship",
+        "image":"Cho-Han-Game.jpg",
+        "url":"https://github.com/MiChaelKanHa/ChoHan-and-Spaceship"
+      },
+      {
+        "title":"Sudoku Game",
+        "category":"This is my first game called Sudoku in Python.",
+        "image":"Sudoku-Game.png",
+        "url":"https://github.com/MiChaelKanHa/SUDOKU-GAME"
+      }
+    ]
+  },
+  "quotes":{
+    "quotes":[
+      {
+        "text":"Always aim for the moon, even if you miss, you will land among the stars.",
+        "user":"W. Clement Stone"
+      }
+    ]
+  }
+}
