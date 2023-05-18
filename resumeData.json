@@ -106,5 +106,12 @@
         "user":"W. Clement Stone"
       }
     ]
+  },
+  "contact":{
+    "contact"[
+      {
+        "text":"Contact me"
+      }
+    ]
   }
 }
